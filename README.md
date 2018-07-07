@@ -5,12 +5,11 @@
 <head>
   
   <meta charset="utf-8">
-  <title>МОЯ СОБСТВЕННАЯ СТРАНИЦА </title>
 </head>
 
 <body>
 
-  <p>
+  <p>МОЯ СОБСТВЕННАЯ СТРАНИЦА
   <script>
     alert( 'SMOTRITE!' );
   </script>
